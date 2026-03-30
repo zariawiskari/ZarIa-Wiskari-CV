@@ -34,7 +34,7 @@ h1 {
 header p {
     font-size: 1.2em;
     color: #7f8c8d;
-    margin-bottom: 20px;
+    margin-bottom: 25px;
 }
 .profile-pic {
     width: 150px;
@@ -42,7 +42,7 @@ header p {
     border-radius: 50%;
     border: 5px solid white;
     box-shadow: 0 10px 30px rgba(0,0,0,0.2);
-    margin-bottom: 20px;
+    margin-bottom: 25px;
     object-fit: cover;
 }
 
@@ -58,7 +58,7 @@ header p {
     box-shadow: 0 5px 15px rgba(0,119,181,0.4);
     transition: all 0.3s ease;
     margin-right: 15px; 
-    margin-bottom: 10px; 
+    margin-bottom: px; 
 }
 
 .site-btn:hover {
@@ -111,7 +111,7 @@ ul li::before {
 }
 
 p {
-    margin-bottom: 15px;
+    margin-bottom: 25px;
 }
 
 a {
@@ -140,7 +140,7 @@ a:hover {
     .site-btn {
         display: block;  
         margin-right: 0;
-        margin-bottom: 15px;
+        margin-bottom: 25px;
         width: 100%;
         text-align: center;
     }
